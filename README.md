@@ -28,4 +28,4 @@ Um plugin de teletransporte com varias ferramentas para pocketmine
 * /aceitar | Aceitar tpa
 * /negar | negar tpa
 * /tpahere <player> | Enviar uma solicitação  tpa Here
-* /here | Aceitar tpa Hete
+* /here | Aceitar tpa Here
