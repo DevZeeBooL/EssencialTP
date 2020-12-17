@@ -1,0 +1,39 @@
+---
+name: EssencialTP
+author: "ZeeBool"
+main: ZeeBool\Essetials\Main
+version: 1.2.2
+api:
+- 3.0.0
+commands:
+  home:
+    description: Teletransportar para uma Home use /home <nome>.
+  sethome:
+    description: Setar Home use /sethome <nome>.
+  delhome:
+    description: Deletar Uma Home use /delhome <nome>.
+  publica:
+    description: teletransportar para uma Home publica.
+  setpublica:
+    description: Deletar Uma home publica.
+  delpublica:
+    description: Deletar Uma home publica.
+  warp:
+    description: Teletransportar se para uma Warp.
+  setwarp:
+    description: Setar Warp.
+  delwarp:
+    description: Deletar Warp.
+  tpa:
+    description: Mandar tpa para um player.
+  aceitar:
+    description: Aceitar tpa.
+  negar:
+  description: Negar tpa.
+  tpahere:
+  description: Mandar Tpa here.
+  here:
+  description: Aceitar tpa.
+  back:
+    description: Voltar para o local onde você morreu pela última vez.
+...
